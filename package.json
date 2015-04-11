@@ -1,0 +1,29 @@
+{
+  "name": "proexpress",
+  "version": "1.0.0",
+  "description": "this is examples from book Pro Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/osktgui/pro-expressjs.git"
+  },
+  "keywords": [
+    "expressjs",
+    "nodejs",
+    "js",
+    "jade",
+    "sass"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osktgui/pro-expressjs/issues"
+  },
+  "homepage": "https://github.com/osktgui/pro-expressjs",
+  "dependencies": {
+    "express": "^4.8.1"
+  }
+}
